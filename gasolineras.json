@@ -1,0 +1,4790 @@
+[
+  {
+    "id": "estaciones-shell-2",
+    "nombre": "AEROPUERTO",
+    "marca": "Shell",
+    "direccion": "BOULEVERD LIBERACIÓN 3-41 ZONA 9",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 2
+    }
+  },
+  {
+    "id": "estaciones-shell-3",
+    "nombre": "AGUA CALIENTE",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 31, RUTA AL ATLANTICO, PALENCIA, GUATEMALA",
+    "municipio": "SAN ANTONIO LA PAZ",
+    "departamento": "EL PROGRESO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 3
+    }
+  },
+  {
+    "id": "estaciones-shell-4",
+    "nombre": "AGUILAR BATRES",
+    "marca": "Shell",
+    "direccion": "CALZADA RAUL AGUILAR BATRES 22-25 Y 22-55 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 4
+    }
+  },
+  {
+    "id": "estaciones-shell-5",
+    "nombre": "ALDANA",
+    "marca": "Shell",
+    "direccion": "CALZADA ROOSEVELT 38-91 ZONA 11",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 5
+    }
+  },
+  {
+    "id": "estaciones-shell-6",
+    "nombre": "ARCO PLAZA",
+    "marca": "Shell",
+    "direccion": "29 AVENIDA 1-89 ZONA 7 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 6
+    }
+  },
+  {
+    "id": "estaciones-shell-7",
+    "nombre": "ASIOLE",
+    "marca": "Shell",
+    "direccion": "KM. 26 RUTAL AL PACIFICO, AMATITLAN",
+    "municipio": "AMATITLAN",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 7
+    }
+  },
+  {
+    "id": "estaciones-shell-8",
+    "nombre": "ATANASIO TZUL",
+    "marca": "Shell",
+    "direccion": "24 AVENIDA 35-81 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 8
+    }
+  },
+  {
+    "id": "estaciones-shell-9",
+    "nombre": "BELLA AURORA",
+    "marca": "Shell",
+    "direccion": "AVENIDA LAS AMERICAS 10-01 ZONA 14",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 9
+    }
+  },
+  {
+    "id": "estaciones-shell-10",
+    "nombre": "BETHANIA",
+    "marca": "Shell",
+    "direccion": "ANILLO PERIFIERICO DIAGONAL 22 27-50 ZONA 7",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 10
+    }
+  },
+  {
+    "id": "estaciones-shell-11",
+    "nombre": "CARLOS V",
+    "marca": "Shell",
+    "direccion": "11 AVENIDA 5-95 ZONA 6 COBÁN, ALTA VERAPAZ",
+    "municipio": "COBAN",
+    "departamento": "ALTA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 11
+    }
+  },
+  {
+    "id": "estaciones-shell-12",
+    "nombre": "CAYALA",
+    "marca": "Shell",
+    "direccion": "BOULEVARD RAFAEL LANDÍVAR ENTRADA A COLONIA LOMAS DE VISTA HERMOSA ZONA 16",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 12
+    }
+  },
+  {
+    "id": "estaciones-shell-13",
+    "nombre": "CENTRO MALACATÁN",
+    "marca": "Shell",
+    "direccion": "5A CALLE 2-29 ZONA 1, MALACATÁN, SAN MARCOS",
+    "municipio": "MALACATÁN",
+    "departamento": "SAN MARCOS",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 13
+    }
+  },
+  {
+    "id": "estaciones-shell-14",
+    "nombre": "CIUDAD SAN CRISTÓBAL",
+    "marca": "Shell",
+    "direccion": "3RA. CALLE 14-65 MANZANA N, SECTOR B12, SAN CRISTOBAL ZONA 8 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 14
+    }
+  },
+  {
+    "id": "estaciones-shell-15",
+    "nombre": "CONDADO CONCEPCIÓN",
+    "marca": "Shell",
+    "direccion": "KM 15.8 CARRETERA A EL SALVADOR, SANTA CATARINA PINULA",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 15
+    }
+  },
+  {
+    "id": "estaciones-shell-16",
+    "nombre": "CUATRO CAMINOS",
+    "marca": "Shell",
+    "direccion": "CUATRO CAMINOS SAN CRISTOBAL TOTONICAPAN, TOTONICAPAN",
+    "municipio": "SAN CRISTOBAL TOTONICAPÁN",
+    "departamento": "TOTONICAPÁN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 16
+    }
+  },
+  {
+    "id": "estaciones-shell-17",
+    "nombre": "CUESTA BLANCA",
+    "marca": "Shell",
+    "direccion": "7 AVENIDA 6-06 ZONA 2 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 17
+    }
+  },
+  {
+    "id": "estaciones-shell-18",
+    "nombre": "CURSA",
+    "marca": "Shell",
+    "direccion": "2DA AVENIDA 6-00 ZONA 2",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 18
+    }
+  },
+  {
+    "id": "estaciones-shell-19",
+    "nombre": "CUYOTENANGO",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 169.5 CARRETERA A CUYOTENANGO",
+    "municipio": "CUYOTENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 19
+    }
+  },
+  {
+    "id": "estaciones-shell-20",
+    "nombre": "EL FRUTAL I",
+    "marca": "Shell",
+    "direccion": "AREA COMERCIAL FRUTAL 2 VILLA NUEVA",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 20
+    }
+  },
+  {
+    "id": "estaciones-shell-21",
+    "nombre": "MIRADOR PALO GORDO",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 258.5 CARRETERA A LA ZONA COSTERA ESQUIPULAS PALO GORDO",
+    "municipio": "ESQUIPULAS PALO GORDO",
+    "departamento": "SAN MARCOS",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 21
+    }
+  },
+  {
+    "id": "estaciones-shell-22",
+    "nombre": "EL NARANJO",
+    "marca": "Shell",
+    "direccion": "GRAN VÍA SUR 30-00 ZONA 4 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 22
+    }
+  },
+  {
+    "id": "estaciones-shell-23",
+    "nombre": "EL RODEO",
+    "marca": "Shell",
+    "direccion": "CALZADA SAN JUAN 45-25 ZONA 7 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 23
+    }
+  },
+  {
+    "id": "estaciones-shell-24",
+    "nombre": "EL TANQUE",
+    "marca": "Shell",
+    "direccion": "2DA. CALLE 8-80 ZONA 1 HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 24
+    }
+  },
+  {
+    "id": "estaciones-shell-25",
+    "nombre": "ESCUINTLA",
+    "marca": "Shell",
+    "direccion": "1A. CALLE Y 4 AVENIDA ZONA 1, ESCUINTLA",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 25
+    }
+  },
+  {
+    "id": "estaciones-shell-26",
+    "nombre": "JOCOTENANGO",
+    "marca": "Shell",
+    "direccion": "CALLE REAL DE PASTORES, KM 67.6 FINCA SANTA BARBARA",
+    "municipio": "PASTORES",
+    "departamento": "SACATEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 26
+    }
+  },
+  {
+    "id": "estaciones-shell-27",
+    "nombre": "LA ESPERANZA XELA",
+    "marca": "Shell",
+    "direccion": "KM. 207 CARRETERA INTERAMERICANA, LA ESPERANZA, QUETZALTENANGO",
+    "municipio": "LA ESPERANZA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 27
+    }
+  },
+  {
+    "id": "estaciones-shell-28",
+    "nombre": "LA VILLA",
+    "marca": "Shell",
+    "direccion": "13 AVENIDA 20-01 ZONA 10",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 28
+    }
+  },
+  {
+    "id": "estaciones-shell-29",
+    "nombre": "LAS AMERICAS/BARRIOS",
+    "marca": "Shell",
+    "direccion": "KM. 291 RUTA AL ATLÁNTICO, PUERTO BARRIOS, IZABAL",
+    "municipio": "PUERTO BARRIOS",
+    "departamento": "IZABAL",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 29
+    }
+  },
+  {
+    "id": "estaciones-shell-30",
+    "nombre": "LAS AMERICAS/QUEZALTENANGO",
+    "marca": "Shell",
+    "direccion": "AVE. LAS AMÉRICAS 'D' 2-13, ZONA 3 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 30
+    }
+  },
+  {
+    "id": "estaciones-shell-31",
+    "nombre": "LAS CONCHAS",
+    "marca": "Shell",
+    "direccion": "8A. AVENIDA 18-56 ZONA 10",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 31
+    }
+  },
+  {
+    "id": "estaciones-shell-32",
+    "nombre": "LAS ROSAS XELA",
+    "marca": "Shell",
+    "direccion": "7MA. AVENIDA 15-34 ZONA 5 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 32
+    }
+  },
+  {
+    "id": "estaciones-shell-33",
+    "nombre": "LAS VEGAS",
+    "marca": "Shell",
+    "direccion": "CARRETERA INTERAMERICANA ALDEA TOCOJAZ, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 33
+    }
+  },
+  {
+    "id": "estaciones-shell-34",
+    "nombre": "LINDA VISTA",
+    "marca": "Shell",
+    "direccion": "KM 19.8 RUTA CA-9 VISTA LINDA, VILLA NUEVA",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 34
+    }
+  },
+  {
+    "id": "estaciones-shell-35",
+    "nombre": "MASAGUA",
+    "marca": "Shell",
+    "direccion": "KM. 85 CARRETERA AL PACIFICO LOTE 76 ALDEA LLANITO ZONA 0 MASAGUA, ESCUINTLA",
+    "municipio": "MASAGUA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 35
+    }
+  },
+  {
+    "id": "estaciones-shell-36",
+    "nombre": "MONTECALVO",
+    "marca": "Shell",
+    "direccion": "RUTA AL ATLANTICO KM 9 ZONA 18",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 36
+    }
+  },
+  {
+    "id": "estaciones-shell-37",
+    "nombre": "NUEVA MARISCAL",
+    "marca": "Shell",
+    "direccion": "CALZADA RAUL AGUILAR BATRES 21-50 ZONA 11",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 37
+    }
+  },
+  {
+    "id": "estaciones-shell-38",
+    "nombre": "PATZICIA",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 69 RUTA INTERAMERICANA, PATZICIA, CHIMALTENANGO",
+    "municipio": "PATZICIA",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 38
+    }
+  },
+  {
+    "id": "estaciones-shell-39",
+    "nombre": "PEGASO",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 49.5 CARRETERA INTERAMERICANA, EL TEJAR, CHIMALTENANGO",
+    "municipio": "EL TEJAR",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 39
+    }
+  },
+  {
+    "id": "estaciones-shell-40",
+    "nombre": "PQ",
+    "marca": "Shell",
+    "direccion": "KM. 61.4 RUTA CA 2 SUR CANTÓN O CASERÍO CHICO CHIMARRÓN, ESCUINTLA",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 40
+    }
+  },
+  {
+    "id": "estaciones-shell-41",
+    "nombre": "PRADERA CHIMALTENANGO",
+    "marca": "Shell",
+    "direccion": "CARRETERA ANTIGUA A EL TEJAR PARCELA # 15 MICROPARCELAMIENTO LA ALAMEDA, CHIMALTENANGO",
+    "municipio": "CHIMALTENANGO",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 41
+    }
+  },
+  {
+    "id": "estaciones-shell-42",
+    "nombre": "PUERTA PARADA",
+    "marca": "Shell",
+    "direccion": "KM 14.2 CARRETERA EL SALVADOR CA-1 ORIENTE, SANTA CATARINA PINULA",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 42
+    }
+  },
+  {
+    "id": "estaciones-shell-43",
+    "nombre": "QUICHE",
+    "marca": "Shell",
+    "direccion": "5 AVENIDA 14B-50 ZONA 2 SANTA CRUZ DEL QUICHE, QUICHE",
+    "municipio": "SANTA CRUZ DEL QUICHE",
+    "departamento": "QUICHE",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 43
+    }
+  },
+  {
+    "id": "estaciones-shell-44",
+    "nombre": "RIO BRAVO",
+    "marca": "Shell",
+    "direccion": "KM. 125 CARRETERA CA-2 RUTA AL PACIFICO, ENTRADA A LA ALDEA EL GUATALON",
+    "municipio": "RIO BRAVO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 44
+    }
+  },
+  {
+    "id": "estaciones-shell-45",
+    "nombre": "RIO HONDO",
+    "marca": "Shell",
+    "direccion": "KM 136 RUTA AL ATLANTICO, RIO HONDO, ZACAPA",
+    "municipio": "RIO HONDO",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 45
+    }
+  },
+  {
+    "id": "estaciones-shell-46",
+    "nombre": "ROOSEVELT",
+    "marca": "Shell",
+    "direccion": "CALZADA ROOSEVELT KM. 13 39-30 ZONA 7 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 46
+    }
+  },
+  {
+    "id": "estaciones-shell-47",
+    "nombre": "SALCAJÁ",
+    "marca": "Shell",
+    "direccion": "KM. 190 AUTOPISTA LOS ALTOS LABOR CASA BLANCA, SALCAJA, QUETZALTENANGO",
+    "municipio": "SALCAJA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 47
+    }
+  },
+  {
+    "id": "estaciones-shell-48",
+    "nombre": "SAN ANTONIO PALO GORDO",
+    "marca": "Shell",
+    "direccion": "02 AVENIDA 05-67 ZONA 01 SAN ANTONIO SUCHITEPEQUEZ",
+    "municipio": "SAN ANTONIO SUCHITEPEQUEZ",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 48
+    }
+  },
+  {
+    "id": "estaciones-shell-49",
+    "nombre": "SAN CRISTÓBAL II",
+    "marca": "Shell",
+    "direccion": "BOULEVARD SAN CRISTOBAL 3A CALLE 10-24, MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 49
+    }
+  },
+  {
+    "id": "estaciones-shell-50",
+    "nombre": "SAN LUCAS",
+    "marca": "Shell",
+    "direccion": "KM. 29.5 CARRETERA INTERAMERICANA, SAN LUCAS, SACATEPEQUEZ",
+    "municipio": "SAN LUCAS SACATEPEQUEZ",
+    "departamento": "SACATEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 50
+    }
+  },
+  {
+    "id": "estaciones-shell-51",
+    "nombre": "SAN LUIS",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 59.5 CARRETERA A SIQUINALA, ESCUINTLA",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 51
+    }
+  },
+  {
+    "id": "estaciones-shell-52",
+    "nombre": "SAN PEDRITO",
+    "marca": "Shell",
+    "direccion": "12 AVENIDA 27-16 ZONA 5",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 52
+    }
+  },
+  {
+    "id": "estaciones-shell-53",
+    "nombre": "SAN SEBASTIAN",
+    "marca": "Shell",
+    "direccion": "KM. 178 CARRETERA AL PACIFICO, SAN SEBASTIAN, RETALHULEU",
+    "municipio": "SAN SEBASTIAN",
+    "departamento": "RETALHULEU",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 53
+    }
+  },
+  {
+    "id": "estaciones-shell-54",
+    "nombre": "SANTA CRUZ ZACAPA",
+    "marca": "Shell",
+    "direccion": "KM. 126 CARRETERA AL ATLÁNTICO, SANTA CRUZ, RIO HONDO, ZACAPA",
+    "municipio": "TECULUTAN",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 54
+    }
+  },
+  {
+    "id": "estaciones-shell-55",
+    "nombre": "SANTA ELENA",
+    "marca": "Shell",
+    "direccion": "4A. CALLE CIUDAD SATELITE, SANTA ELENA, PETEN",
+    "municipio": "FLORES",
+    "departamento": "PETEN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 55
+    }
+  },
+  {
+    "id": "estaciones-shell-56",
+    "nombre": "SANTA ELISA",
+    "marca": "Shell",
+    "direccion": "AVENIDA PETAPA 32-69 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 56
+    }
+  },
+  {
+    "id": "estaciones-shell-57",
+    "nombre": "TERMINAL ZACAPA",
+    "marca": "Shell",
+    "direccion": "CALZADA MIGUEL GARCÍA GRANADOS ZONA 4, ZACAPA",
+    "municipio": "ZACAPA",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 57
+    }
+  },
+  {
+    "id": "estaciones-shell-58",
+    "nombre": "TIKAL FUTURA PERIFERICO",
+    "marca": "Shell",
+    "direccion": "CALZADA ROOSEVELT 22-43 ZONA 11, C.C. TIKAL FUTURA",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 58
+    }
+  },
+  {
+    "id": "estaciones-shell-59",
+    "nombre": "TIKAL FUTURA ROOSEVELT",
+    "marca": "Shell",
+    "direccion": "CALZADA ROOSEVELT 22-43 ZONA 11, C.C. TIKAL FUTURA",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 59
+    }
+  },
+  {
+    "id": "estaciones-shell-60",
+    "nombre": "TULAM ZU",
+    "marca": "Shell",
+    "direccion": "BOULEVARD TULAM ZU LOTE 3 ZONA 4 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 60
+    }
+  },
+  {
+    "id": "estaciones-shell-61",
+    "nombre": "VERAPAZ SANTA CRUZ",
+    "marca": "Shell",
+    "direccion": "KM 198.5 CARRETERA A COBAN, SANTA CRUZ VERAPAZ, ALTA VERAPAZ",
+    "municipio": "SANTA CRUZ VERAPAZ",
+    "departamento": "ALTA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 61
+    }
+  },
+  {
+    "id": "estaciones-shell-62",
+    "nombre": "VILLA NUEVA",
+    "marca": "Shell",
+    "direccion": "4A. AVENIDA 4-23 ZONA 6 VILLA NUEVA",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 62
+    }
+  },
+  {
+    "id": "estaciones-shell-63",
+    "nombre": "VISTA HERMOSA",
+    "marca": "Shell",
+    "direccion": "2DA. CALLE 23-69 ZONA 15",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 63
+    }
+  },
+  {
+    "id": "estaciones-shell-64",
+    "nombre": "LA BENDICION COATEPEQUE",
+    "marca": "Shell",
+    "direccion": "Aldea La Union, Kilometro 225 Zona 5 Coatepeque, Quetzaltenango.",
+    "municipio": "COATEPEQUE",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 64
+    }
+  },
+  {
+    "id": "estaciones-shell-65",
+    "nombre": "FER",
+    "marca": "Shell",
+    "direccion": "Carretera a San Jose Pinula, Lote 2, Don Justo, zona 7 Santa Catarina Pinula, Guatemala",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 65
+    }
+  },
+  {
+    "id": "estaciones-shell-66",
+    "nombre": "SAN BENITO",
+    "marca": "Shell",
+    "direccion": "Calzada Francisco Javier Lopez Marroquin Barrio El Redentor, San Benito Petén",
+    "municipio": "SAN BENITO",
+    "departamento": "PETEN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 66
+    }
+  },
+  {
+    "id": "estaciones-shell-67",
+    "nombre": "PLAYA GRANDE",
+    "marca": "Shell",
+    "direccion": "LOTE 165 ZONA 1 PLAYA GRANDE IXCAN, QUICHE",
+    "municipio": "IXCAN",
+    "departamento": "QUICHE",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 67
+    }
+  },
+  {
+    "id": "estaciones-shell-68",
+    "nombre": "LAS PALMAS",
+    "marca": "Shell",
+    "direccion": "calzada las palmas zona 2, Retalhuleu, Retalhuleu",
+    "municipio": "RETALHULEU",
+    "departamento": "RETALHULEU",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 68
+    }
+  },
+  {
+    "id": "estaciones-shell-69",
+    "nombre": "NAHUALA",
+    "marca": "Shell",
+    "direccion": "Entrada al canton Racantacaj, Nahuala, Solola",
+    "municipio": "NAHUALA",
+    "departamento": "SOLOLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 69
+    }
+  },
+  {
+    "id": "estaciones-shell-70",
+    "nombre": "GUADALUPE",
+    "marca": "Shell",
+    "direccion": "Diagonal 6, Boulevard Los Proceres zona 10, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 70
+    }
+  },
+  {
+    "id": "estaciones-shell-71",
+    "nombre": "SS COMBUSTIBLES DE LO ALTO SALCAJA",
+    "marca": "Shell",
+    "direccion": "3a. AVENIDA 4-539 ZONA 2, SALCAJÁ, QUETZALTENANGO.",
+    "municipio": "SALCAJA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 71
+    }
+  },
+  {
+    "id": "estaciones-shell-72",
+    "nombre": "SS MIGRANTE SALCAJA AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "Km 190 Carretera Interamericana, Salcajá, Quetzaltenango",
+    "municipio": "SALCAJA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 72
+    }
+  },
+  {
+    "id": "estaciones-shell-73",
+    "nombre": "SS PERIFERICO XELA -AG-RBA- FUE",
+    "marca": "Shell",
+    "direccion": "10a. Calle \"D\" 1-77, Zona 8, Quetzaltenango, Quetzaltenango",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 73
+    }
+  },
+  {
+    "id": "estaciones-shell-74",
+    "nombre": "SS SAN JUAN OSTUNCALCO AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "Cantón Buena Vista, Kilometro 216.5 Carretera a San Marcos, San Juan Ostuncalco, Quetzaltenango",
+    "municipio": "SAN JUAN OSTUNCALCO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 74
+    }
+  },
+  {
+    "id": "estaciones-shell-75",
+    "nombre": "SS La Campana",
+    "marca": "Shell",
+    "direccion": "km 345, la Campana Monjas Jalapa",
+    "municipio": "MONJAS",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 75
+    }
+  },
+  {
+    "id": "estaciones-shell-76",
+    "nombre": "SS San Jose Jutiapa",
+    "marca": "Shell",
+    "direccion": "KM 116.5 carretera Interamericana, Jutiapa Jutiapa",
+    "municipio": "JUTIAPA",
+    "departamento": "JUTIAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 76
+    }
+  },
+  {
+    "id": "estaciones-shell-77",
+    "nombre": "SS JARDINES DE LAS CHARCAS -AG-RBA-FUE-",
+    "marca": "Shell",
+    "direccion": "8 ave. 8-33, zona 11",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 77
+    }
+  },
+  {
+    "id": "estaciones-shell-78",
+    "nombre": "SS BOULEVARD SUR RBA",
+    "marca": "Shell",
+    "direccion": "6av. 29-31, Zona 8 Boulevar Sur San cristobal Mixco",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 78
+    }
+  },
+  {
+    "id": "estaciones-shell-79",
+    "nombre": "SS LA ESPERANZA II AG RBA -BT FUE",
+    "marca": "Shell",
+    "direccion": "Km 14.5 Carretera al Pacifico",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 79
+    }
+  },
+  {
+    "id": "estaciones-shell-80",
+    "nombre": "SS LAS CHARCAS AB RBA BT-FUE",
+    "marca": "Shell",
+    "direccion": "35 calle 11-07 zona 11",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 80
+    }
+  },
+  {
+    "id": "estaciones-shell-81",
+    "nombre": "SS CIUDAD REAL AG RBA -BT FUE-",
+    "marca": "Shell",
+    "direccion": "AV PETAPA 51-35 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 81
+    }
+  },
+  {
+    "id": "estaciones-shell-82",
+    "nombre": "SS PETAPA REFORMITA",
+    "marca": "Shell",
+    "direccion": "AVENIDA PETAPA 11-01 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 82
+    }
+  },
+  {
+    "id": "estaciones-shell-83",
+    "nombre": "SS LA U AG RBA-BT FUE",
+    "marca": "Shell",
+    "direccion": "11 av 29-29, zona 12 Col Santa Rosa II",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 83
+    }
+  },
+  {
+    "id": "estaciones-shell-84",
+    "nombre": "SS JUSTO RUFINO -AG -RBA -FUE",
+    "marca": "Shell",
+    "direccion": "53 calle 25-16 zona 12, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 84
+    }
+  },
+  {
+    "id": "estaciones-shell-85",
+    "nombre": "SS CARMEL AG RBA -BT FUE-",
+    "marca": "Shell",
+    "direccion": "7 Avenida 5-64 Zona 4",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 85
+    }
+  },
+  {
+    "id": "estaciones-shell-86",
+    "nombre": "SS AMALIA AG RBA BT FUE",
+    "marca": "Shell",
+    "direccion": "45 C 4-00 Y 4-01, Z 5 CALZ LA PAZ",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 86
+    }
+  },
+  {
+    "id": "estaciones-shell-87",
+    "nombre": "SS LOS PINABETES - AG-RBA -FUE",
+    "marca": "Shell",
+    "direccion": "Km 20.5 Carret San Jose Pinula, Aldea Santa Ines",
+    "municipio": "SAN JOSE PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 87
+    }
+  },
+  {
+    "id": "estaciones-shell-88",
+    "nombre": "SS VALLE DE FRAIJANES RBA -BT-FUE",
+    "marca": "Shell",
+    "direccion": "Km. 20.5 carretera a El Salvador",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 88
+    }
+  },
+  {
+    "id": "estaciones-shell-89",
+    "nombre": "SS CENTROAMERICA",
+    "marca": "Shell",
+    "direccion": "Km 17.2 Carretera a El Salvador",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 89
+    }
+  },
+  {
+    "id": "estaciones-shell-90",
+    "nombre": "SS Los Altos BT - FUE",
+    "marca": "Shell",
+    "direccion": "Km 13 Carret. Al Salvador,Santa Catarina Pinula.",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 90
+    }
+  },
+  {
+    "id": "estaciones-shell-91",
+    "nombre": "SS CELAJES",
+    "marca": "Shell",
+    "direccion": "Km. 24.5 carretera a El Salvador",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 91
+    }
+  },
+  {
+    "id": "estaciones-shell-92",
+    "nombre": "SS ESTACION LA PAZ",
+    "marca": "Shell",
+    "direccion": "CALZ LA PAZ 12-00 Z 5",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 92
+    }
+  },
+  {
+    "id": "estaciones-shell-93",
+    "nombre": "FABULOSA",
+    "marca": "Shell",
+    "direccion": "AVENIDA 30 DE JUNIO, PUERTO DE SAN JOSE, SAN JOSE, ESCUINTLA",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 93
+    }
+  },
+  {
+    "id": "estaciones-shell-94",
+    "nombre": "KM 145",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 145 CARRETERA CA-2, MUNICIPIO DE SAN ANTONIO SUCHITEPÉQUEZ, DEPARTAMENTO DE SUCHITEPÉQUEZ",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 94
+    }
+  },
+  {
+    "id": "estaciones-shell-95",
+    "nombre": "COCALES",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 113, RUTA AL PACIFICO, ALDEA COCALES, PATULUL, SUCHITEPÉQUEZ",
+    "municipio": "SUCHITEPEQUEZ",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 95
+    }
+  },
+  {
+    "id": "estaciones-shell-96",
+    "nombre": "KM 149",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 149 RUTA AL PACIFICO, MUNICIPIO DE SAN ANTONIO SUCHITÉQUEZ, DEPARTAMENTO DE SUCHITEPÉQUEZ",
+    "municipio": "SUCHITEPEQUEZ",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 96
+    }
+  },
+  {
+    "id": "estaciones-shell-97",
+    "nombre": "NAHUALATE",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 136 RUTA AL PACIFICO, ALDEA NAHUALATE, CHICACAO, SUCHITEPEQUEZ",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 97
+    }
+  },
+  {
+    "id": "estaciones-shell-98",
+    "nombre": "SS BUENOS AIRES CHIANTLA",
+    "marca": "Shell",
+    "direccion": "COLONIA SAN VALENTIN, SEGUNDO CARRIZAL, ZONA 3, MUNICIPIO DE HUEHUETENANGO, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 98
+    }
+  },
+  {
+    "id": "estaciones-shell-99",
+    "nombre": "SS EL BOSQUE HUEHUETENANGO AGRBA-BT FUE-",
+    "marca": "Shell",
+    "direccion": "ZONA 5, CANTON SAN JOSE, MUNICIPIO DE VILLA HUEHUETENANGO, DEPARTAMENTO DE HUEHUETENAGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 99
+    }
+  },
+  {
+    "id": "estaciones-shell-100",
+    "nombre": "-SS GALICIA- -",
+    "marca": "Shell",
+    "direccion": "KM 258.4 CARRETERA A LA MESILLA CHIMUSINIQUE, ZONA 12, HUEHUETENANGO, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 100
+    }
+  },
+  {
+    "id": "estaciones-shell-101",
+    "nombre": "SS HUEHUETENANGO-AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "KM 255.5 CARRETERA INTERAMERICANA, ALDEA TOJOCAZ, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 101
+    }
+  },
+  {
+    "id": "estaciones-shell-102",
+    "nombre": "SS LAS VICTORIAS HUEHUETENANGO -BT FUE",
+    "marca": "Shell",
+    "direccion": "KM 257.5 CAMBOTE ZONA 11, HUEHUETENANGO, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 102
+    }
+  },
+  {
+    "id": "estaciones-shell-103",
+    "nombre": "SS SAN LORENZO-AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "ZONA 6 ALDEA JUMAJ, MUNICIPIO DE HUEHUETENANGO, DEPARTAMENTO DE HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 103
+    }
+  },
+  {
+    "id": "estaciones-shell-104",
+    "nombre": "SS ARLETH SAN FRANCISCO -RBA-",
+    "marca": "Shell",
+    "direccion": "Paraje La Cruz Aldea tacajalve Km 192.5, Carretera Interamericana, San Francisco El Alto, Totonicapán",
+    "municipio": "SAN FRANCISCO EL ALTO",
+    "departamento": "TOTONICAPÁN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 104
+    }
+  },
+  {
+    "id": "estaciones-shell-105",
+    "nombre": "SS VILLA VALERIA",
+    "marca": "Shell",
+    "direccion": "Final zona 3, salida a Totonicapan",
+    "municipio": "TOTONICAPAN",
+    "departamento": "TOTONICAPÁN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 105
+    }
+  },
+  {
+    "id": "estaciones-shell-106",
+    "nombre": "SS LAS MAGNOLIAS",
+    "marca": "Shell",
+    "direccion": "Km 183 Barrio Las Magnolias",
+    "municipio": "TACTIC",
+    "departamento": "ALTA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 106
+    }
+  },
+  {
+    "id": "estaciones-shell-107",
+    "nombre": "SS NIÑO PERDIDO",
+    "marca": "Shell",
+    "direccion": "ALDEA NIÑO PERDIDO, MUNICIPIO DE SALAMA",
+    "municipio": "SALAMA",
+    "departamento": "BAJA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 107
+    }
+  },
+  {
+    "id": "estaciones-shell-108",
+    "nombre": "SS SAN CRISTOBAL VERAPAZ",
+    "marca": "Shell",
+    "direccion": "CANTON ORAM SAN CRISTOBAL VERAPAZ, ALTA VERAPAZ",
+    "municipio": "COBAN",
+    "departamento": "ALTA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 108
+    }
+  },
+  {
+    "id": "estaciones-shell-109",
+    "nombre": "Ciudad Quetzal",
+    "marca": "Shell",
+    "direccion": "BOULEVARD PRINCIPAL LOTE 15 ZONA 10, SAN JUAN SACATEPEQUEZ, GUATEMALA",
+    "municipio": "SAN JUAN SACATEPEQUEZ",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 109
+    }
+  },
+  {
+    "id": "estaciones-shell-110",
+    "nombre": "Mirador Quetzal",
+    "marca": "Shell",
+    "direccion": "COLONIA ARCADIAS 2 CARRETERA CARRANZA, LOTRE 1-A, ZONA 3, MUNICIPIO DE DAN JUAN SACATEPEQUEZ, DEPARTAMENTO DE GUATEMALA",
+    "municipio": "SAN JUAN SACATEPEQUEZ",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 110
+    }
+  },
+  {
+    "id": "estaciones-shell-111",
+    "nombre": "Mateo Flores",
+    "marca": "Shell",
+    "direccion": "5 AVENIDA 12-80, ZONA 3, COLONIA EL ROSARIO, MIXCO, GUATEMALA",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 111
+    }
+  },
+  {
+    "id": "estaciones-shell-112",
+    "nombre": "SS LAS FLORES II -BT FUE",
+    "marca": "Shell",
+    "direccion": "CALZADA ROOSEVELT 2-51 ZONA 3, COLONIA COTIO, MUNICIPIO DE MIXCO, DEPARTAMENTO DE GUATEMALA",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 112
+    }
+  },
+  {
+    "id": "estaciones-shell-113",
+    "nombre": "SS LAS MAJADAS AG RBA -BT FUE",
+    "marca": "Shell",
+    "direccion": "ANILLO PERIFERICO 30 AVENIDA ZONA 11, GUATEMALA, GUATEMALA",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 113
+    }
+  },
+  {
+    "id": "estaciones-shell-114",
+    "nombre": "SS PLAZA FLORIDA AG RBA -BT FUE",
+    "marca": "Shell",
+    "direccion": "CALZADA SAN JUAN KILOMETRO 11.5 GUATEMALA, GUATEMALA",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 114
+    }
+  },
+  {
+    "id": "estaciones-shell-115",
+    "nombre": "SS SAN JUAN SAC",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 30.5 CARRETAERA A SAN JUAN SACATEPEQUEZ, MUNICIPIO DE SAN JUAN SACATEPEQUEX, DEPARTAMENTO DE GUATEMALA",
+    "municipio": "San Juan Sacatepequez",
+    "departamento": "Guatemala",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 115
+    }
+  },
+  {
+    "id": "estaciones-shell-116",
+    "nombre": "SS SAN LUCAS - AGENCIA RBA BT-FUE",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 29.5 CARRETERA INTERAMERICANA, SAN LUCAS SACATEPEQUEZ, SACATEPEQUEZ",
+    "municipio": "San Lucas",
+    "departamento": "Sacatepequez",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 116
+    }
+  },
+  {
+    "id": "estaciones-shell-117",
+    "nombre": "SS SUMPANGO -AG-RBA- FUE",
+    "marca": "Shell",
+    "direccion": "ENTRADA PRINCIPAL KM 42.3, SUMPANGO, 04 ZONA 4, SUMPANGO SACATEPEQUEZ",
+    "municipio": "Sumpango",
+    "departamento": "Chimaltenango",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 117
+    }
+  },
+  {
+    "id": "estaciones-shell-118",
+    "nombre": "SS-ECSA-EL CAMINERO - AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "BOULEVARD EL CAMINERO 7-15 ZONA 6 MIXCO, GUATEMALA",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 118
+    }
+  },
+  {
+    "id": "estaciones-shell-119",
+    "nombre": "SS TARA- AG-RBA-FUE-",
+    "marca": "Shell",
+    "direccion": "KILOMETRO 16.5 CARRETERA A SAN JUAN SACATEPEQUEZ, ZONA 6 MIXCO, GUATEMALA",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 119
+    }
+  },
+  {
+    "id": "estaciones-shell-120",
+    "nombre": "SS SANTA APOLONIA -FUE-",
+    "marca": "Shell",
+    "direccion": "CALLE PRINCIPAL ALDEA XETZAC ZONA 0, TECPAN GUATEMALA",
+    "municipio": "TECPAN",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 120
+    }
+  },
+  {
+    "id": "estaciones-shell-121",
+    "nombre": "SS La Castellana",
+    "marca": "Shell",
+    "direccion": "Avenida La Castellana 41-16 zona 8 Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 121
+    }
+  },
+  {
+    "id": "estaciones-shell-122",
+    "nombre": "SS El Frutal II",
+    "marca": "Shell",
+    "direccion": "12 Avenida Zona 5 Villa Nueva",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 122
+    }
+  },
+  {
+    "id": "estaciones-shell-123",
+    "nombre": "SS Belarsa",
+    "marca": "Shell",
+    "direccion": "Calle Real 3-98 Zona 10 San Miguel Petapa",
+    "municipio": "SAN MIGUEL PETAPA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 123
+    }
+  },
+  {
+    "id": "estaciones-shell-124",
+    "nombre": "SS Los Planes",
+    "marca": "Shell",
+    "direccion": "1 Calle 6-91 Colonia Los Planes Zona 5 Villa Nueva",
+    "municipio": "Villa Nueva",
+    "departamento": "Guatemala",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 124
+    }
+  },
+  {
+    "id": "estaciones-shell-125",
+    "nombre": "SS San Miguel Petapa",
+    "marca": "Shell",
+    "direccion": "03 calle 06-09 Zona 3 San Miguel Petapa",
+    "municipio": "SAN MIGUEL PETAPA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 125
+    }
+  },
+  {
+    "id": "estaciones-shell-126",
+    "nombre": "SS La Vueltona",
+    "marca": "Shell",
+    "direccion": "1 Ave \"A\" 6-90 zona 1 Aldea Boca Del Monte Villa Canales",
+    "municipio": "VILLA CANALES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 126
+    }
+  },
+  {
+    "id": "estaciones-shell-127",
+    "nombre": "SS La Concha Villa Nueva",
+    "marca": "Shell",
+    "direccion": "16 avenida 3-45 zona 4 apartamento A, Villa Nueva",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 127
+    }
+  },
+  {
+    "id": "estaciones-shell-128",
+    "nombre": "SS Oakland",
+    "marca": "Shell",
+    "direccion": "Diagonal 6, 13-50 zona 10, Colonia La Villa, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 128
+    }
+  },
+  {
+    "id": "estaciones-shell-129",
+    "nombre": "SS Los Reformadores",
+    "marca": "Shell",
+    "direccion": "2ª Av. “A” 2-70, Lote 123, Colonia Venecia, Los Reformadores. VN",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 129
+    }
+  },
+  {
+    "id": "estaciones-shell-130",
+    "nombre": "SS PIEDRA PARADA",
+    "marca": "Shell",
+    "direccion": "calle principal lote 9 A, sector 1, zona 6, Piedra Parada, El Rosario",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 130
+    }
+  },
+  {
+    "id": "estaciones-shell-131",
+    "nombre": "SS SANARATE",
+    "marca": "Shell",
+    "direccion": "Zona 0 Ave. Central 8335-010, Sanarate",
+    "municipio": "Sanarate",
+    "departamento": "El Progreso",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 131
+    }
+  },
+  {
+    "id": "estaciones-shell-132",
+    "nombre": "SS SAN RAMON II AG RBA BT-FUE",
+    "marca": "Shell",
+    "direccion": "Km. 52.5 Carretera al Atlantico, Entrada a Sanarate",
+    "municipio": "Sanarate",
+    "departamento": "El Progreso",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 132
+    }
+  },
+  {
+    "id": "estaciones-shell-133",
+    "nombre": "SS LAS BRISAS/GUATEMALA",
+    "marca": "Shell",
+    "direccion": "11 avenida 14-01 zona 1",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 133
+    }
+  },
+  {
+    "id": "estaciones-shell-134",
+    "nombre": "SS-LA LAGUNA- AG-RBA-FUE-",
+    "marca": "Shell",
+    "direccion": "12 calle 02-21 Zona 18, San Rafael La Laguna, Municipio de Guatemala Departamento dd Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 134
+    }
+  },
+  {
+    "id": "estaciones-shell-135",
+    "nombre": "SS LA SEXTA",
+    "marca": "Shell",
+    "direccion": "6 Avenida Zona 4",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 135
+    }
+  },
+  {
+    "id": "estaciones-shell-136",
+    "nombre": "SS JARDINES DE LA ASUNCION -BT FUE-",
+    "marca": "Shell",
+    "direccion": "Diagonal 14 20-01 zona 5",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 136
+    }
+  },
+  {
+    "id": "estaciones-shell-137",
+    "nombre": "SS SAN NICOLAS II",
+    "marca": "Shell",
+    "direccion": "7ª calle 29-85 zona 4 Colonia El Naranjo, Mixco, Guatemala",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 137
+    }
+  },
+  {
+    "id": "estaciones-shell-138",
+    "nombre": "Km. 13",
+    "marca": "Shell",
+    "direccion": "CA-9 Norte ruta al Atlantico 41-75 colonia San Rafael Castro zona 25 Guatemala, Guatemala.",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 138
+    }
+  },
+  {
+    "id": "estaciones-shell-139",
+    "nombre": "SS PALMERA OIL",
+    "marca": "Shell",
+    "direccion": "Kilometro 56.5 Carretera a Escuintla",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 139
+    }
+  },
+  {
+    "id": "estaciones-shell-140",
+    "nombre": "SS CEMENTERIO ESCUINTLA",
+    "marca": "Shell",
+    "direccion": "carretera al puerto km 59.5 zona 0, Escuintla, Escuintla",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 140
+    }
+  },
+  {
+    "id": "estaciones-shell-141",
+    "nombre": "SS ZACAPA BARRIO MODERNO RBA",
+    "marca": "Shell",
+    "direccion": "4TA CALLE 9-04 ZONA 2 BARRIO SAN MARCOS, ZACAPA, ZACAPA",
+    "municipio": "ZACAPA",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 141
+    }
+  },
+  {
+    "id": "estaciones-shell-142",
+    "nombre": "SS SANSAYO -AG - RBA - FUE",
+    "marca": "Shell",
+    "direccion": "ruta nacional 18, salida a sanpedro pinula, jalapa",
+    "municipio": "JALAPA",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 142
+    }
+  },
+  {
+    "id": "estaciones-shell-143",
+    "nombre": "SS TRIANGULO JALAPA",
+    "marca": "Shell",
+    "direccion": "Aldea el tierrero, municipio de Jalapa Ingreso a Jalapa",
+    "municipio": "JALAPA",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 143
+    }
+  },
+  {
+    "id": "estaciones-shell-144",
+    "nombre": "SS LA ESTANCIA",
+    "marca": "Shell",
+    "direccion": "Km 158, Salida a Guatemala, Ruta CA Guión 2, Mazatenango, Suchitepequez",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 144
+    }
+  },
+  {
+    "id": "estaciones-shell-145",
+    "nombre": "SS SAN BERNARDINO - AG-RBA-FUE",
+    "marca": "Shell",
+    "direccion": "KM 152.5 SAN BERNARDINO SUCHITEPEQUEZ",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 145
+    }
+  },
+  {
+    "id": "estaciones-shell-146",
+    "nombre": "SS CENTRO LA MAQUINA",
+    "marca": "Shell",
+    "direccion": "San Jose la Maquina, Zona 0 Calle Principal 10420, Gas",
+    "municipio": "CUYOTENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 146
+    }
+  },
+  {
+    "id": "estaciones-shell-147",
+    "nombre": "SS CHITALON",
+    "marca": "Shell",
+    "direccion": "CA-2KM 164 MUNICIPIO DE MAZATENANGO DEPARTAMENTO DE SUCHITEPEQUEZ",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 147
+    }
+  },
+  {
+    "id": "estaciones-shell-148",
+    "nombre": "SS NORTE II",
+    "marca": "Shell",
+    "direccion": "km. 6.5 Carretera al Atlantico, 21-50 Z. 18 Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 148
+    }
+  },
+  {
+    "id": "estaciones-shell-149",
+    "nombre": "SS LA TORRE",
+    "marca": "Shell",
+    "direccion": "7 Avenida 2-06 Zona 9",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 149
+    }
+  },
+  {
+    "id": "estaciones-shell-150",
+    "nombre": "SS LAS CHARCAS",
+    "marca": "Shell",
+    "direccion": "35 calle 11-07 zona 11",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 150
+    }
+  },
+  {
+    "id": "estaciones-shell-151",
+    "nombre": "SS ROOSEVELT",
+    "marca": "Shell",
+    "direccion": "Calzada Roosevelt 39-30 zona 7 Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 151
+    }
+  },
+  {
+    "id": "estaciones-shell-152",
+    "nombre": "SS CANDELARIA",
+    "marca": "Shell",
+    "direccion": "Kilómetro 32.87 Ruta a San Raymundo,",
+    "municipio": "SAN JUAN SACATEPEQUEZ",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 152
+    }
+  },
+  {
+    "id": "estaciones-shell-153",
+    "nombre": "GASOLINERAS INDEPEN.-SS TERRA-",
+    "marca": "Shell",
+    "direccion": "2 avenida 1-13 zona 1, Don Justo, Municipio de Fraijanes, Departamento de Guatemala",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 153
+    }
+  },
+  {
+    "id": "estaciones-shell-154",
+    "nombre": "SS JALAPA",
+    "marca": "Shell",
+    "direccion": "2 CALLE \"C\" 03-07 ZONA 1, BARRIO LA DEMOCRACIA",
+    "municipio": "JALAPA",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 154
+    }
+  },
+  {
+    "id": "estaciones-shell-155",
+    "nombre": "SS KM. CIENTO VEINTISEIS PUNTO CINCO",
+    "marca": "Shell",
+    "direccion": "Km. 126 Carretera al Atlántico, Santa Cruz, Zacapa",
+    "municipio": "RIO HONDO",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 155
+    }
+  },
+  {
+    "id": "estaciones-shell-156",
+    "nombre": "SS LOS AMATES",
+    "marca": "Shell",
+    "direccion": "km 167 el manacal, los amates, izabal",
+    "municipio": "AMATES",
+    "departamento": "IZABAL",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 156
+    }
+  },
+  {
+    "id": "estaciones-shell-157",
+    "nombre": "SS MORAZAN TASA FOB",
+    "marca": "Shell",
+    "direccion": "Km.95 carretera a Cobán entrada a Morazán",
+    "municipio": "MORAZAN",
+    "departamento": "El Progreso",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 157
+    }
+  },
+  {
+    "id": "estaciones-shell-158",
+    "nombre": "SS QUETZAL",
+    "marca": "Shell",
+    "direccion": "BOULEVARD PRINCIPAL, LOTE 15 ZONA 10, SAN JUAN SACATEPEQUEZ, GUATEMALA",
+    "municipio": "SAN JUAN SACATEPEQUEZ",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 158
+    }
+  },
+  {
+    "id": "estaciones-shell-159",
+    "nombre": "SS SALAMA",
+    "marca": "Shell",
+    "direccion": "Ruta 4, 3-89 zona 3, Barrio Agua Caliente",
+    "municipio": "SALAMA",
+    "departamento": "BAJA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 159
+    }
+  },
+  {
+    "id": "estaciones-shell-160",
+    "nombre": "SS XELA SUR",
+    "marca": "Shell",
+    "direccion": "Diagonal 5 37-229 Zona 8, Municipio de Quetzaltenango, Departamento de Quetzaltenango",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": null,
+    "grupo": null,
+    "observaciones": null,
+    "extras": null,
+    "_origen": {
+      "hoja": "ESTACIONES SHELL",
+      "fila": 160
+    }
+  },
+  {
+    "id": "estaciones-uno-2",
+    "nombre": "ACATAN",
+    "marca": "UNO",
+    "direccion": "DIAGONAL 34 (CALLE REAL ACATAN) 12-20 COLONIA LAS MERCEDES ZONA 16",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606182,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "ACATAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 2
+    }
+  },
+  {
+    "id": "estaciones-uno-3",
+    "nombre": "ATANASIO",
+    "marca": "UNO",
+    "direccion": "23 AVENIDA A 42-05 ZONA 12",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 653504,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "ATANASIO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 3
+    }
+  },
+  {
+    "id": "estaciones-uno-4",
+    "nombre": "CRUZ DEL SUR",
+    "marca": "UNO",
+    "direccion": "16 CALLE 9-69 ZONA 1",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606046,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "CRUZ DEL SUR GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 4
+    }
+  },
+  {
+    "id": "estaciones-uno-5",
+    "nombre": "DIAGONAL SEIS",
+    "marca": "UNO",
+    "direccion": "BOULEVARD LOS PRÓCERES 18-28 ZONA 10",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108078,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "DIAGONAL 6 GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 5
+    }
+  },
+  {
+    "id": "estaciones-uno-6",
+    "nombre": "JOSE MILLA - MARTI",
+    "marca": "UNO",
+    "direccion": "CALZADA JOSE MILLA Y VIDAURRE 24-88 ZONA 6",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108105,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "JOSE MILLA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 6
+    }
+  },
+  {
+    "id": "estaciones-uno-7",
+    "nombre": "PASEO CAYALA",
+    "marca": "UNO",
+    "direccion": "BOULEVARD RAFAEL LANDÍVAR LOTE 3 COLONIA JACARANDAS DE CAYALA ZONA 16",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606065,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "PASEO CAYALA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 7
+    }
+  },
+  {
+    "id": "estaciones-uno-8",
+    "nombre": "PINOS II",
+    "marca": "UNO",
+    "direccion": "CARRETERA AL ATLÁNTICO KM 6.5 ZONA 18",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606063,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "PACIFIC PINOS GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 8
+    }
+  },
+  {
+    "id": "estaciones-uno-9",
+    "nombre": "PROCERES OBELISCO",
+    "marca": "UNO",
+    "direccion": "18 CALLE 4-01 ZONA 10",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606059,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "PROCERES OBELISCO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 9
+    }
+  },
+  {
+    "id": "estaciones-uno-10",
+    "nombre": "PROVIDENCIA",
+    "marca": "UNO",
+    "direccion": "CARRETERA AL ATLÁNTICO KM 8.5 ZONA 18",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606064,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LA PROVIDENCIA ZO 18 GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 10
+    }
+  },
+  {
+    "id": "estaciones-uno-11",
+    "nombre": "TERMINAL GUATE",
+    "marca": "UNO",
+    "direccion": "2 AVENIDA 2-41 ZONA 9",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108102,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TERMINAL HUEHUETENANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 11
+    }
+  },
+  {
+    "id": "estaciones-uno-12",
+    "nombre": "TREBOL",
+    "marca": "UNO",
+    "direccion": "CALZADA ROOSEVELT 5-78 ZONA 7 COLONIA LÁNDIVAR",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606057,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TREBOL GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 12
+    }
+  },
+  {
+    "id": "estaciones-uno-13",
+    "nombre": "MONTE MARIA",
+    "marca": "UNO",
+    "direccion": "CALZADA AGUILAR BATRES 44-81 COLONIA MONTE MARIA ZONA 12 VILLA NUEVA",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606062,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "MONTE MARIA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 13
+    }
+  },
+  {
+    "id": "estaciones-uno-14",
+    "nombre": "DELTA BARCENAS",
+    "marca": "UNO",
+    "direccion": "CARRETERA AL PACIFICO KM 19.25 BÁRCENAS VILLA NUEVA",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606072,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "DELTA BARCENAS GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 14
+    }
+  },
+  {
+    "id": "estaciones-uno-15",
+    "nombre": "BOCA DEL MONTE II",
+    "marca": "UNO",
+    "direccion": "1 AVENIDA 5-29 BOCA DEL MONTE ZONA 1 VILLA CANALES",
+    "municipio": "VILLA CANALES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606060,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "BOCA DEL MONTE II GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 15
+    }
+  },
+  {
+    "id": "estaciones-uno-16",
+    "nombre": "SAN MIGUEL PETAPA",
+    "marca": "UNO",
+    "direccion": "8 AVENIDA 0-51 COLONIA SAN ANTONIO ZONA 9 SAN MIGUEL PETAPA",
+    "municipio": "SAN MIGUEL PETAPA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606061,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "SAN MIGUEL PETAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 16
+    }
+  },
+  {
+    "id": "estaciones-uno-17",
+    "nombre": "FLORES DEL LAGO",
+    "marca": "UNO",
+    "direccion": "KM 29.6 CARRETERA AL PACIFICO CA-9 SUR AMATITLÁN",
+    "municipio": "AMATITLAN",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606042,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "FLORES DEL LAGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 17
+    }
+  },
+  {
+    "id": "estaciones-uno-18",
+    "nombre": "LAS PALMAS AMATITLAN",
+    "marca": "UNO",
+    "direccion": "KM 32.5 CARRETERA AL PACIFICO AMATITLÁN",
+    "municipio": "AMATITLAN",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606049,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LAS PALMAS AMA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 18
+    }
+  },
+  {
+    "id": "estaciones-uno-19",
+    "nombre": "FLORIDA",
+    "marca": "UNO",
+    "direccion": "3 AVENIDA 0-24 COLONIA LA BRIGADA ZONA 7 DE MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606070,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "FLORIDA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 19
+    }
+  },
+  {
+    "id": "estaciones-uno-20",
+    "nombre": "ROOSELVELT COTIO",
+    "marca": "UNO",
+    "direccion": "CALZADA ROOSEVELT 0-42 COLONIA COTIO ZONA 2 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606055,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "ROOSEVELT COTIO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 20
+    }
+  },
+  {
+    "id": "estaciones-uno-21",
+    "nombre": "SAN CRISTOBAL 2",
+    "marca": "UNO",
+    "direccion": "3 CALLE 10-96 CIUDAD SAN CRISTÓBAL ZONA 8 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606054,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "SAN CRISTOBAL 2 GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 21
+    }
+  },
+  {
+    "id": "estaciones-uno-22",
+    "nombre": "SAN CRISTOBAL III",
+    "marca": "UNO",
+    "direccion": "SAN CRISTÓBAL SECTOR B-1 MANZANA A1 9 Y 10 MIXCO",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606053,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "SAN CRISTOBAL III GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 22
+    }
+  },
+  {
+    "id": "estaciones-uno-23",
+    "nombre": "MUXBAL",
+    "marca": "UNO",
+    "direccion": "CARRETERA ANTIGUA AL SALVADOR KM 9.5 SAN JORGE MUXBAL SANTA CATARINA PINULA",
+    "municipio": "SANTA CATARINA PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606066,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "MUXBAL GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 23
+    }
+  },
+  {
+    "id": "estaciones-uno-24",
+    "nombre": "EL FARO",
+    "marca": "UNO",
+    "direccion": "CARRETERA A SAN JOSE PINULA KM 16.5 LAGUNTEA DON JUSTO SANTA JOSE PINULA",
+    "municipio": "SAN JOSE PINULA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606047,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "EL FARO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 24
+    }
+  },
+  {
+    "id": "estaciones-uno-25",
+    "nombre": "ANDALUCIA",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 16.5 CARRETERA A PAVÓN, RESIDENCIALES LOMA VERDE, FRAIJANES",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108044,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "ANDALUCIA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 25
+    }
+  },
+  {
+    "id": "estaciones-uno-26",
+    "nombre": "CASAL",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 19.4 CARRETERA A EL SALVADOR ILUMINADO VILLAS DEL PINAR FRAIJANES",
+    "municipio": "FRAIJANES",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 653477,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "CASAL- AG GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 26
+    }
+  },
+  {
+    "id": "estaciones-uno-27",
+    "nombre": "SAN JUAN SACATEPEQUEZ",
+    "marca": "UNO",
+    "direccion": "KM 18.5 CARRETERA A SAN JUAN SACATEPÉQUEZ ALDEA EL NARANJITO ZONA 8 COLONIA BOSQUES LAS VICTORIAS",
+    "municipio": "SAN JUAN SACATEPEQUEZ",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606048,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN JUAN SAC GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 27
+    }
+  },
+  {
+    "id": "estaciones-uno-28",
+    "nombre": "VICTORIAS PALIN",
+    "marca": "UNO",
+    "direccion": "KM 38.5 CARRETERA AL PACIFICO PALIN ESCUINTLA",
+    "municipio": "PALIN",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606043,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "VICTORIAS PALIN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 28
+    }
+  },
+  {
+    "id": "estaciones-uno-29",
+    "nombre": "PUERTO DE SAN JOSE",
+    "marca": "UNO",
+    "direccion": "KM 102 AUTOPISTA A ESCUINTLA FINCA PORTUARIA PUERTO QUEZTAL ZONA 1 Y ZONA 5 PUERTO DE SAN JOSE",
+    "municipio": "SAN JOSE",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606050,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "PUERTO SAN JOSE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 29
+    }
+  },
+  {
+    "id": "estaciones-uno-30",
+    "nombre": "SUR",
+    "marca": "UNO",
+    "direccion": "CALLE PRINCIPAL BARRIO LA ARENERA LOTE 2-68 PUERTO SAN JOSE ESCUINTLA",
+    "municipio": "SAN JOSE",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 653507,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SUR GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 30
+    }
+  },
+  {
+    "id": "estaciones-uno-31",
+    "nombre": "SANTA LUCIA",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 89.5 CARRETERA AL PACIFICO, SANTA LUCIA COTZUMALGUAPA, ESCUINTLA",
+    "municipio": "SANTA LUCIA COTZUMALGUAPA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606183,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SANTA LUCIA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 31
+    }
+  },
+  {
+    "id": "estaciones-uno-32",
+    "nombre": "COCALES",
+    "marca": "UNO",
+    "direccion": "KM 110 CARRETERA CA-2 COCALES, PATULUL, SUCHITEPEQUEZ",
+    "municipio": "PATULUL",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108106,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "COCALES GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 32
+    }
+  },
+  {
+    "id": "estaciones-uno-33",
+    "nombre": "SAN ANTONIO SUCHITEPEQUEZ",
+    "marca": "UNO",
+    "direccion": "CARRETERA INTERAMERICANA KM 148.2 SAN ANTONIO SUCHITEPEQUEZ",
+    "municipio": "SAN ANTONIO SUCHITEPEQUEZ",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108097,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN ANTONIO SUCHITEPEQUEZ GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 33
+    }
+  },
+  {
+    "id": "estaciones-uno-34",
+    "nombre": "EL MOTORISTA",
+    "marca": "UNO",
+    "direccion": "VUELTA DEL MOTORISTA CANTON EL SAUCE, KM 158.5 A MAZATENANGO ENTRADA SAMAYAC, SAN BERNARDINO, SUCHITEPEQUEZ",
+    "municipio": "SAN BERNARDINO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606105,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "EL MOTORISTA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 34
+    }
+  },
+  {
+    "id": "estaciones-uno-35",
+    "nombre": "MAZATENANGO (SAN BERNARDINO)",
+    "marca": "UNO",
+    "direccion": "KM 156 CARRETERA CA-2 MAZATENANGO SUCHITEPÉQUEZ",
+    "municipio": "SAN BERNARDINO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606051,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN BERNARDINO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 35
+    }
+  },
+  {
+    "id": "estaciones-uno-36",
+    "nombre": "MAZATENANGO II",
+    "marca": "UNO",
+    "direccion": "KM 164.1 CARRETERA CA-2 MAZATENANGO SUCHITEPEQUEZ",
+    "municipio": "MAZATENANGO",
+    "departamento": "SUCHITEPEQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108095,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "MAZATENANGO II GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 36
+    }
+  },
+  {
+    "id": "estaciones-uno-37",
+    "nombre": "SAN SEBASTIAN",
+    "marca": "UNO",
+    "direccion": "KM 178 CARRETERA INTERAMERICANA CA-2 SAN SEBASTIAN RETALHULEU",
+    "municipio": "SAN SEBASTIAN",
+    "departamento": "RETALHULEU",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108100,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN SEBASTIAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 37
+    }
+  },
+  {
+    "id": "estaciones-uno-38",
+    "nombre": "LOS LAURELES COATEPEQUE",
+    "marca": "UNO",
+    "direccion": "KM 231 CARRETERA A TECUN HUMAN LOTIFICACION LOS LAURELES, COATEPEQUE, QUETZALTENANGO",
+    "municipio": "COATEPEQUE",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606186,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LOS LAURELES COATEPEQUE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 38
+    }
+  },
+  {
+    "id": "estaciones-uno-39",
+    "nombre": "CENTRO QUETZALTENANGO",
+    "marca": "UNO",
+    "direccion": "07 AVENIDA 00-61 ZONA 01 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108093,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "CENTRO QUETZALTENANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 39
+    }
+  },
+  {
+    "id": "estaciones-uno-40",
+    "nombre": "TECUN XELA",
+    "marca": "UNO",
+    "direccion": "29 AVENIDA 04-08 ZONA 7 QUETZALTENANGO",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108101,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TECUN XELA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 40
+    }
+  },
+  {
+    "id": "estaciones-uno-41",
+    "nombre": "ALMOLONGA",
+    "marca": "UNO",
+    "direccion": "9NA. AVENIDA 0-31 ZONA 4, QUETZALTENANGO",
+    "municipio": "ALMOLONGA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108072,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "ALMOLONGA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 41
+    }
+  },
+  {
+    "id": "estaciones-uno-42",
+    "nombre": "LLANO GRANDE",
+    "marca": "UNO",
+    "direccion": "KM 191 CARRETERA INTERAMERICANA SALCAJA QUETZALTENANGO",
+    "municipio": "SALCAJA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108094,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LLANO GRANDE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 42
+    }
+  },
+  {
+    "id": "estaciones-uno-43",
+    "nombre": "LOS SAUCES XELA",
+    "marca": "UNO",
+    "direccion": "3 CALLE 03-46 ZONA 3 KM 209.5 CARRETERA INTERAMERICANA SAN MATEO, QUETZALTENANGO",
+    "municipio": "SAN MATEO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 605997,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "LOS SAUCES XELA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 43
+    }
+  },
+  {
+    "id": "estaciones-uno-44",
+    "nombre": "SAN MATEO",
+    "marca": "UNO",
+    "direccion": "ALDEA LOS CAYAX KM 209.5 CARRETERA INTERAMERICANA SAN MATEO, QUETZALTENANGO",
+    "municipio": "SAN MATEO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108099,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN MATEO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 44
+    }
+  },
+  {
+    "id": "estaciones-uno-45",
+    "nombre": "CANTEL",
+    "marca": "UNO",
+    "direccion": "KM 217 CARRETERA INTERTRONCAL DE OCCIDENTE CANTEL QUETZALTENANGO",
+    "municipio": "CANTEL",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108092,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "CANTEL GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 45
+    }
+  },
+  {
+    "id": "estaciones-uno-46",
+    "nombre": "SAN CARLOS SIJA",
+    "marca": "UNO",
+    "direccion": "ALDEA ESTANCIA DE LA VIRGEN, KM 234.5 CARRETERA INTERAMERICANA, SAN CARLOS SIJA, QUETZALTENANGO",
+    "municipio": "SAN CARLOS SIJA",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108928,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN CARLOS SIJA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 46
+    }
+  },
+  {
+    "id": "estaciones-uno-47",
+    "nombre": "TERMINAL HUEHUETENANGO",
+    "marca": "UNO",
+    "direccion": "09 CALLE 12-97 ZONA 05 CANTON SAN JOSE HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108102,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TERMINAL HUEHUETENANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 47
+    }
+  },
+  {
+    "id": "estaciones-uno-48",
+    "nombre": "EL PEÑON",
+    "marca": "UNO",
+    "direccion": "KM 256.5 CARRETERA INTERAMERICANA, ALDEA TOJOCAZ, HUEHUETENANGO",
+    "municipio": "HUEHUETENANGO",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606191,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "EL PENON GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 48
+    }
+  },
+  {
+    "id": "estaciones-uno-49",
+    "nombre": "LA CAPELLANIA",
+    "marca": "UNO",
+    "direccion": "ALDEA LA CAPELLANIA KM.282 CHIANTLA, HUEHUETENANGO",
+    "municipio": "CHIANTLA",
+    "departamento": "HUEHUETENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108931,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LA CAPELLANIA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 49
+    }
+  },
+  {
+    "id": "estaciones-uno-50",
+    "nombre": "MONTE ALTO",
+    "marca": "UNO",
+    "direccion": "KM 243 CARRETERA INTERAMERICANA ALDEA SAN ISIDRO CHAMAC SAN PEDRO",
+    "municipio": "SAN PEDRO SACATEPEQUEZ",
+    "departamento": "SAN MARCOS",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108096,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "MONTE ALTO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 50
+    }
+  },
+  {
+    "id": "estaciones-uno-51",
+    "nombre": "EL MANÁ",
+    "marca": "UNO",
+    "direccion": "FINAL LOS CHORECALES KILOMETRO 166.5, SANTA CRUZ DEL QUICHE, QUICHE",
+    "municipio": "SANTA CRUZ DEL QUICHE",
+    "departamento": "QUICHE",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108088,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "EL MANA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 51
+    }
+  },
+  {
+    "id": "estaciones-uno-52",
+    "nombre": "SANTA CRUZ DEL QUICHÉ",
+    "marca": "UNO",
+    "direccion": "12 CALLE 02-01, ZONA 04, SANTA CRUZ DEL QUICHE",
+    "municipio": "SANTA CRUZ DEL QUICHE",
+    "departamento": "QUICHE",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108089,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SANTA CRUZ DEL QUICHE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 52
+    }
+  },
+  {
+    "id": "estaciones-uno-53",
+    "nombre": "SAN CRISTOBAL TOTONICAPAN",
+    "marca": "UNO",
+    "direccion": "KM 188 CARRETERA INTERAMERICANA SAN CRISTOBAL TOTONICAPAN",
+    "municipio": "SAN CRISTOBAL TOTONICAPAN",
+    "departamento": "TOTONICAPAN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108098,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN CRISTOBAL TOTONICAPAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 53
+    }
+  },
+  {
+    "id": "estaciones-uno-54",
+    "nombre": "TOTONICAPAN",
+    "marca": "UNO",
+    "direccion": "KILÓMETRO 190 CARRETERA A TOTONICAPAN, PARAJE VISTA HERMOSA, CANTON XESUC SAN CRISTOBAL TOTONICAPAN",
+    "municipio": "SAN CRISTOBAL TOTONICAPAN",
+    "departamento": "TOTONICAPAN",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108087,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TOTONICAPAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 54
+    }
+  },
+  {
+    "id": "estaciones-uno-55",
+    "nombre": "TECPAN",
+    "marca": "UNO",
+    "direccion": "ALDEA PAMANZANA KM 86.5 CARRETERA INTERAMERICANA, TECPAN, CHIMALTENANGO",
+    "municipio": "TECPAN",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606185,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "TECPAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 55
+    }
+  },
+  {
+    "id": "estaciones-uno-56",
+    "nombre": "ZARAGOZA",
+    "marca": "UNO",
+    "direccion": "KM 61.7 - 61.8 CARRETERA INTERAMERICANA, ZARAGOZA, CHIMALTENANGO",
+    "municipio": "ZARAGOZA",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606184,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "ZARAGOZA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 56
+    }
+  },
+  {
+    "id": "estaciones-uno-57",
+    "nombre": "CHIMALTENANGO",
+    "marca": "UNO",
+    "direccion": "KM 52.5 CARRETERA INTERAMERICANA ALDEA LOS PLANES ZONA 0",
+    "municipio": "CHIMALTENANGO",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606052,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "CHIMALTENANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 57
+    }
+  },
+  {
+    "id": "estaciones-uno-58",
+    "nombre": "EL TEJAR",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 50.5 CARRETERA INTERAMERICANA, EL TEJAR CHIMALTENANGO",
+    "municipio": "EL TEJAR",
+    "departamento": "CHIMALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108082,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "EL TEJAR GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 58
+    }
+  },
+  {
+    "id": "estaciones-uno-59",
+    "nombre": "BARBERENA",
+    "marca": "UNO",
+    "direccion": "RUTA INTERAMERICANA KM 56, BARBERENA SANTA ROSA",
+    "municipio": "BARBERENA",
+    "departamento": "SANTA ROSA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606067,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "BARBERENA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 59
+    }
+  },
+  {
+    "id": "estaciones-uno-60",
+    "nombre": "JUTIAPA",
+    "marca": "UNO",
+    "direccion": "CARRETERA INTERAMERICANA ZONA 4 JUTIAPA",
+    "municipio": "JUTIAPA",
+    "departamento": "JUTIAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606068,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "JUTIAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 60
+    }
+  },
+  {
+    "id": "estaciones-uno-61",
+    "nombre": "SAN ANTONIO JUTIAPA",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 121 CARRETERA INTERAMERICANA, ALDEA EL TABLÓN, JUTIAPA, JUTIAPA",
+    "municipio": "JUTIAPA",
+    "departamento": "JUTIAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108027,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SAN ANTONIO JUTIAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 61
+    }
+  },
+  {
+    "id": "estaciones-uno-62",
+    "nombre": "CHIQUIMULA",
+    "marca": "UNO",
+    "direccion": "KM 167.2 PRIMERA ENTRADA A CHIQUIMULA RUTA CA-10",
+    "municipio": "CHIQUIMULA",
+    "departamento": "CHIQUIMULA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606069,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "CHIQUIMULA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 62
+    }
+  },
+  {
+    "id": "estaciones-uno-63",
+    "nombre": "SANARATE",
+    "marca": "UNO",
+    "direccion": "ALDEA MONTE GRANDE KM 53 ZONA 0 RUTA AL ATLANTICO, SANARATE, EL PROGRESO",
+    "municipio": "SANARATE",
+    "departamento": "EL PROGRESO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108104,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "SANARATE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 63
+    }
+  },
+  {
+    "id": "estaciones-uno-64",
+    "nombre": "SANARATE CENTRO",
+    "marca": "UNO",
+    "direccion": "KM 53.5 CALZADA PRINCIPAL A SANARATE, EL PROGRESO",
+    "municipio": "SANARATE",
+    "departamento": "EL PROGRESO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108107,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "SANARATE CENTRO GT995108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 64
+    }
+  },
+  {
+    "id": "estaciones-uno-65",
+    "nombre": "MONJAS JALAPA",
+    "marca": "UNO",
+    "direccion": "BARRIO LA LIBERTAD, MONJAS, JALAPA",
+    "municipio": "MONJAS",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606233,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "MONJAS JALAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 65
+    }
+  },
+  {
+    "id": "estaciones-uno-66",
+    "nombre": "AVENIDA CHIPILAPA",
+    "marca": "UNO",
+    "direccion": "AVENIDA CHIPILAPA Y CALLE TRANSITO ROJAS ZONA 6 JALAPA",
+    "municipio": "JALAPA",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606234,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "AVENIDA CHIPILAPA JALAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 66
+    }
+  },
+  {
+    "id": "estaciones-uno-67",
+    "nombre": "JALAPA",
+    "marca": "UNO",
+    "direccion": "AVENIDA CHIPILAPA 4 CALLE ZONA 1 JALAPA",
+    "municipio": "JALAPA",
+    "departamento": "JALAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606236,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "JALAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 67
+    }
+  },
+  {
+    "id": "estaciones-uno-68",
+    "nombre": "COBAN",
+    "marca": "UNO",
+    "direccion": "2DA CALLE 5-95 ZONA 2 COBAN, ALTA VERAPAZ",
+    "municipio": "COBAN",
+    "departamento": "ALTA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108946,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "COBAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 68
+    }
+  },
+  {
+    "id": "estaciones-uno-69",
+    "nombre": "LLANO LARGO",
+    "marca": "UNO",
+    "direccion": "Carretera al Atlántico 61-76 Colonia El Carmen Zona 25, GUATEMALA, GUATEMALA",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108094,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "LLANO GRANDE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 69
+    }
+  },
+  {
+    "id": "estaciones-uno-70",
+    "nombre": "QUESADA",
+    "marca": "UNO",
+    "direccion": "ALDEA NUEVO CHAPARRON, QUESADA, JUTIAPA",
+    "municipio": "QUESADA",
+    "departamento": "JUTIAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108120,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO QUESADA GT995108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 70
+    }
+  },
+  {
+    "id": "estaciones-uno-71",
+    "nombre": "TECULUTAN",
+    "marca": "UNO",
+    "direccion": "Kilometro 123 Ruta al Atlantico, Teculutan, Zacapa",
+    "municipio": "TECULUTAN",
+    "departamento": "ZACAPA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108125,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "TECULUTAN GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 71
+    }
+  },
+  {
+    "id": "estaciones-uno-72",
+    "nombre": "PRADOS DE VILLA HERMOSA",
+    "marca": "UNO",
+    "direccion": "15 AVENIDA B 20-14 VILLA HERMOSA 1, ZONA 7, SAN MIGUEL PETAPA",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108126,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO PRADOS DE VILLA HERMOSA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 72
+    }
+  },
+  {
+    "id": "estaciones-uno-73",
+    "nombre": "SUMPANGO",
+    "marca": "UNO",
+    "direccion": "KILOMETRO 43 43-00, CARRETERA INTERAMERICANA SUMPANGO, SACATEPEQUEZ, GUATEMALA",
+    "municipio": "SUMPANGO",
+    "departamento": "SACATEPÉQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108132,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO SUMPANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 73
+    }
+  },
+  {
+    "id": "estaciones-uno-74",
+    "nombre": "VISTAS DE SANTA ELISA",
+    "marca": "UNO",
+    "direccion": "23 Avenida 31-01 Zona 12, Colonia Santa, Elisa Guatemala, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108137,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO VISTAS DE SANTA ELISA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 74
+    }
+  },
+  {
+    "id": "estaciones-uno-75",
+    "nombre": "PALMERAS ESCUINTLA",
+    "marca": "UNO",
+    "direccion": "1 Avenida Frente a Centro Comercial Plaza Palmeras Zona 1 Escuintla, Escuintla",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108128,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "UNO PALMERAS ESCUINTLA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 75
+    }
+  },
+  {
+    "id": "estaciones-uno-76",
+    "nombre": "EL RANCHO",
+    "marca": "UNO",
+    "direccion": "Kilómetro 82.5 Ruta al Atlántico, El Rancho San Agustin Acasaguatlan, El Progreso",
+    "municipio": "SAN AGUSTIN ACASAGUASTLAN",
+    "departamento": "EL PROGRESO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108141,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO EL RANCHO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 76
+    }
+  },
+  {
+    "id": "estaciones-uno-77",
+    "nombre": "TEJUTLA",
+    "marca": "UNO",
+    "direccion": "2a Avenida 0-35 Zona 2 Tejutla, San Marcos",
+    "municipio": "TEJUTLA",
+    "departamento": "SAN MARCOS",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108108,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO TEJUTLA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 77
+    }
+  },
+  {
+    "id": "estaciones-uno-78",
+    "nombre": "MASAGUA",
+    "marca": "UNO",
+    "direccion": "Kilómetro 70.3 de la Carretera Antigua al Puerto de San José Masagua, Escuintla",
+    "municipio": "ESCUINTLA",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108134,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO MASAGUA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 78
+    }
+  },
+  {
+    "id": "estaciones-uno-79",
+    "nombre": "XELA NORTE",
+    "marca": "UNO",
+    "direccion": "Diagonal 5, 37-310 zona 8 Quetzaltenango, Quetzaltenango",
+    "municipio": "QUETZALTENANGO",
+    "departamento": "QUETZALTENANGO",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108085,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "UNO XELA NORTE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 79
+    }
+  },
+  {
+    "id": "estaciones-uno-80",
+    "nombre": "BELLA VISTA VILLA NUEVA",
+    "marca": "UNO",
+    "direccion": "1 Calle 2-94 Zona 4 Villa Nueva, Guatemala",
+    "municipio": "VILLA NUEVA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108148,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "BELLA VISTA VILLA NUEVA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 80
+    }
+  },
+  {
+    "id": "estaciones-uno-81",
+    "nombre": "LIBRAMIENTO BARBERENA",
+    "marca": "UNO",
+    "direccion": "Km. 44 CA-1 Barberena, Santa Rosa",
+    "municipio": "BARBERENA",
+    "departamento": "SANTA ROSA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108938,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "LIBRAMIENTO BARBERENA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 81
+    }
+  },
+  {
+    "id": "estaciones-uno-82",
+    "nombre": "DEL ATLANTICO",
+    "marca": "UNO",
+    "direccion": "Kilometro 7, Carretera al Atlántico, 10-02, zona 17, Guatemala, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651096,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO DEL ATLANTICO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 82
+    }
+  },
+  {
+    "id": "estaciones-uno-83",
+    "nombre": "EXPLANADA SAN PEDRITO",
+    "marca": "UNO",
+    "direccion": "12 Avenida, 30-18 Zona 5, Guatemala, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651097,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO EXPLANADA SAN PEDRITO"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 83
+    }
+  },
+  {
+    "id": "estaciones-uno-84",
+    "nombre": "HINCAPIE",
+    "marca": "UNO",
+    "direccion": "14 Avenida 29-32 Zona 13, Guatemala, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651098,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO HINCAPIE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 84
+    }
+  },
+  {
+    "id": "estaciones-uno-85",
+    "nombre": "PUERTO BARRIOS",
+    "marca": "UNO",
+    "direccion": "Km. 293 Carretera al Atlántico, Colonia Virginia Venta de Carros Puerto Barrios, Izabal",
+    "municipio": "PUERTO BARRIOS",
+    "departamento": "IZABAL",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 108983,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO PUERTO BARRIOS GT995108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 85
+    }
+  },
+  {
+    "id": "estaciones-uno-86",
+    "nombre": "AVENIDA PETAPA",
+    "marca": "UNO",
+    "direccion": "Avenida Petapa 13-38 Zona 12, Local 1, Guatemala, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651095,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO AVENIDA PETAPA GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 86
+    }
+  },
+  {
+    "id": "estaciones-uno-87",
+    "nombre": "LAS BRISAS",
+    "marca": "UNO",
+    "direccion": "Kilometro 16.5 Carretera a San Juan Sacatepequez 21-70 Zona 6, el Encino, Mixco, Guatemala",
+    "municipio": "GUATEMALA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651099,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO LAS BRISAS GT 980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 87
+    }
+  },
+  {
+    "id": "estaciones-uno-88",
+    "nombre": "PANORAMA",
+    "marca": "UNO",
+    "direccion": "6ª. Avenida 14-02A C3, Valle Dorado, San Cristóbal Zona 8, Mixco, Guatemala",
+    "municipio": "MIXCO",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606094,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "UNO PANORAMA SAN CRISTOBAL GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 88
+    }
+  },
+  {
+    "id": "estaciones-uno-89",
+    "nombre": "TAXISCO",
+    "marca": "UNO",
+    "direccion": "Carretera CA2 Kilometro 107.5 Caserio el Desengaño, Taxisco, Santa Rosa",
+    "municipio": "TAXISCO",
+    "departamento": "SANTA ROSA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606089,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO TAXISCO"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 89
+    }
+  },
+  {
+    "id": "estaciones-uno-90",
+    "nombre": "BAJA VERAPAZ",
+    "marca": "UNO",
+    "direccion": "1 Calle 1-103, Barrio Hacienda la Virgen, Zona 2 Salama, Baja Verapaz",
+    "municipio": "SALAMA",
+    "departamento": "BAJA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606098,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO BAJA VERAPAZ"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 90
+    }
+  },
+  {
+    "id": "estaciones-uno-91",
+    "nombre": "CALZADA CENTENARIO QUICHE",
+    "marca": "UNO",
+    "direccion": "02 Av. 20-025, PB Nueva GA. Zona 4, Santa Cruz del Quiche, Quiche",
+    "municipio": "SANTA CRUZ DEL QUICHE",
+    "departamento": "QUICHE",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651094,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO CALZADA CENTENARIO QUICHE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 91
+    }
+  },
+  {
+    "id": "estaciones-uno-92",
+    "nombre": "ENTRE BOSQUES",
+    "marca": "UNO",
+    "direccion": "Caserío Pantin Patal, Kilómetro 167.6 Carretera CA Guión Catorce (CA-14) hacia Purulhá, Purulha, Baja Verapaz",
+    "municipio": "PURULHA",
+    "departamento": "BAJA VERAPAZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 612075,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "DIESEL ULSD": "SI",
+      "ESTACIÓN": "UNO ENTRE BOSQUES GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 92
+    }
+  },
+  {
+    "id": "estaciones-uno-93",
+    "nombre": "ALOTENANGO",
+    "marca": "UNO",
+    "direccion": "Ciudad Vieja-00, Carretera Alotenango Km 79.986, Ciudad Vieja, Sacatepequez",
+    "municipio": "CIUDAD VIEJA",
+    "departamento": "SACATEPÉQUEZ",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651192,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO ALOTENANGO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 93
+    }
+  },
+  {
+    "id": "estaciones-uno-94",
+    "nombre": "FUTICO",
+    "marca": "UNO",
+    "direccion": "Kilometro 171.5 Ruta a Esquipulas, Chiquimula, Chiquimula",
+    "municipio": "CHIQUIMULA",
+    "departamento": "CHIQUIMULA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 664481,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO FUTICO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 94
+    }
+  },
+  {
+    "id": "estaciones-uno-95",
+    "nombre": "PLAZA TIQUISATE",
+    "marca": "UNO",
+    "direccion": "Kilómetro 146 Carretera de Tiquisate a el Semillero, Tiquisate, Escuintla",
+    "municipio": "TIQUISATE",
+    "departamento": "ESCUINTLA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 606100,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO PLAZA TIQUISATE GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 95
+    }
+  },
+  {
+    "id": "estaciones-uno-96",
+    "nombre": "RIVERA DEL RIO",
+    "marca": "UNO",
+    "direccion": "3A Calle 0-25 Colonia Rivera del Rio, Zona 13, San Miguel Petapa, Guatemala",
+    "municipio": "SAN MIGUEL PETAPA",
+    "departamento": "GUATEMALA",
+    "latitud": null,
+    "longitud": null,
+    "codigo": 651105,
+    "grupo": null,
+    "observaciones": null,
+    "extras": {
+      "ESTACIÓN": "UNO RIVERA DEL RIO GT980108"
+    },
+    "_origen": {
+      "hoja": "ESTACIONES UNO",
+      "fila": 96
+    }
+  }
+]
