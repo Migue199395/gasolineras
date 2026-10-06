@@ -41,10 +41,18 @@ Sitio web estático, responsive y sin backend para consultar gasolineras y abrir
 
 El Excel actual tiene hojas separadas para UNO y Shell. El convertidor las une en un solo JSON e infiere la marca a partir del nombre de la hoja cuando no existe una columna `MARCA`.
 
-**Importante:** el Excel actual no contiene columnas de latitud y longitud. Por eso:
-- Waze funciona usando la dirección.
-- El mapa no inventa coordenadas ni geocodifica automáticamente.
-- La opción de ordenar por cercanía se activa automáticamente en una futura actualización si agregas columnas `LATITUD` y `LONGITUD`.
+El listado conserva sus **254 estaciones**. Se incorporaron coordenadas para **220**: 130 Shell y 90 UNO. Las **34 restantes** conservan su dirección y aparecen como «Ubicación precisa pendiente».
+
+Las ubicaciones se cruzaron con el [localizador de Shell](https://find.shell.com/gt/fuel/locations/es_GT) y el [mapa enlazado por UNO Guatemala](https://www.uno.com.gt/estaciones/). Se dejaron pendientes las coincidencias ambiguas y los puntos que contradicen la dirección o repiten una ubicación dudosa. Las columnas `FUENTE_UBICACION`, `FECHA_UBICACION` y `NOMBRE_UBICACION` conservan la referencia de cada coordenada en el Excel y el JSON.
+
+### Mostrar gasolineras cercanas
+
+1. Pulsa el botón y permite el acceso a tu ubicación.
+2. Se ordenan las estaciones con coordenadas de menor a mayor distancia, respetando los filtros activos.
+3. La distancia mostrada es aproximada, **en línea recta**. Waze calcula la ruta por calles cuando se abre el destino.
+4. Las estaciones pendientes aparecen al final y su enlace de Waze continúa buscando por dirección.
+
+El mapa muestra solamente estaciones con coordenadas. La página indica cuántas hay en la selección actual. Si bloqueas la ubicación, permite el acceso en los permisos del sitio y vuelve a pulsar el botón. Tu ubicación se mantiene únicamente en memoria mientras la página está abierta; no se guarda ni se envía para calcular las distancias.
 
 ## Cómo actualizar las gasolineras
 

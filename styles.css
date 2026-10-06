@@ -458,3 +458,9 @@ h1 {
 @media (min-width: 1120px) {
   .cards-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
 }
+.location-summary {
+  color: #52647a;
+  font-size: 0.9rem;
+  line-height: 1.5;
+  margin: 18px 2px 0;
+}

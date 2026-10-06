@@ -32,6 +32,7 @@
     listBtn: document.getElementById("listViewBtn"),
     mapBtn: document.getElementById("mapViewBtn"),
     status: document.getElementById("statusMessage"),
+    locationSummary: document.getElementById("locationSummary"),
   };
 
   const FIELD_LABELS = {
@@ -216,7 +217,9 @@
     if (item.grupo) chips.push(`<span class="meta-chip">${escapeHtml(item.grupo)}</span>`);
     const distance = state.distances.get(item.id);
     if (Number.isFinite(distance)) {
-      chips.push(`<span class="meta-chip distance-chip">${ICON.distance}${distance.toFixed(1)} km</span>`);
+      chips.push(`<span class="meta-chip distance-chip" title="Distancia aproximada en línea recta">${ICON.distance}${distance.toFixed(1)} km en línea recta</span>`);
+    } else if (!hasCoords(item)) {
+      chips.push(`<span class="meta-chip">Ubicación precisa pendiente</span>`);
     }
     return chips.join("");
   }
@@ -330,6 +333,11 @@
   function render() {
     els.count.textContent = state.filtered.length.toLocaleString("es-GT");
     els.label.textContent = state.filtered.length === 1 ? "gasolinera" : "gasolineras";
+    const located = state.filtered.filter(hasCoords).length;
+    els.locationSummary.textContent = `${located} de ${state.filtered.length} estaciones de esta selección tienen coordenadas. ` +
+      (state.userLocation
+        ? "Las distancias son aproximadas, en línea recta. Las estaciones sin coordenadas aparecen al final al ordenar por cercanía."
+        : "Pulsa Mostrar gasolineras cercanas y permite el acceso a tu ubicación para ordenarlas por distancia.");
     if (state.view === "list") renderList();
     else renderMap();
   }
@@ -355,7 +363,11 @@
 
   function requestNearby() {
     if (!state.hasCoordinateData) {
-      showStatus("El Excel actual no contiene coordenadas. Agrega LATITUD y LONGITUD para calcular distancias.");
+      showStatus("Todavía no hay estaciones con coordenadas para calcular distancias.", 6000);
+      return;
+    }
+    if (!window.isSecureContext) {
+      showStatus("Abre esta página con HTTPS para permitir el acceso a tu ubicación.", 6000);
       return;
     }
     if (!navigator.geolocation) {
@@ -368,6 +380,12 @@
 
     navigator.geolocation.getCurrentPosition(
       ({ coords }) => {
+        if (!Number.isFinite(coords.latitude) || !Number.isFinite(coords.longitude)) {
+          showStatus("El dispositivo devolvió una ubicación inválida. Vuelve a intentarlo.", 6000);
+          els.nearby.disabled = false;
+          els.nearby.innerHTML = `${ICON.distance}Mostrar gasolineras cercanas`;
+          return;
+        }
         state.userLocation = { lat: coords.latitude, lon: coords.longitude };
         computeDistances();
         els.distanceOption.disabled = false;
@@ -375,19 +393,24 @@
         els.sort.value = "distance";
         sortCurrent();
         render();
-        showStatus("Distancias calculadas en tu dispositivo. Tu ubicación no se guardó ni se envió.");
+        const located = state.filtered.filter(hasCoords).length;
+        showStatus(located
+          ? "Estaciones ordenadas por distancia en línea recta. Waze calculará la ruta por calles."
+          : "Esta selección no tiene coordenadas. Pulsa Limpiar filtros para ver las estaciones disponibles.", 6000);
         els.nearby.disabled = false;
         els.nearby.innerHTML = `${ICON.distance}Actualizar gasolineras cercanas`;
       },
       (error) => {
         const msg = error.code === 1
-          ? "No se concedió permiso para usar la ubicación."
-          : "No fue posible obtener tu ubicación en este momento.";
-        showStatus(msg);
+          ? "Ubicación bloqueada. Permítela en los permisos de este sitio y vuelve a pulsar el botón."
+          : error.code === 3
+            ? "Se agotó el tiempo para obtener tu ubicación. Vuelve a intentarlo."
+            : "No fue posible obtener tu ubicación. Activa la ubicación de tu dispositivo y vuelve a intentarlo.";
+        showStatus(msg, 8000);
         els.nearby.disabled = false;
         els.nearby.innerHTML = `${ICON.distance}Mostrar gasolineras cercanas`;
       },
-      { enableHighAccuracy: false, timeout: 10000, maximumAge: 120000 }
+      { enableHighAccuracy: true, timeout: 15000, maximumAge: 60000 }
     );
   }
 
@@ -429,8 +452,7 @@
       state.hasCoordinateData = state.all.some(hasCoords);
 
       if (!state.hasCoordinateData) {
-        els.nearby.disabled = true;
-        els.nearby.title = "El Excel actual no contiene latitud y longitud.";
+        els.nearby.title = "Todavía no hay estaciones con coordenadas.";
         els.distanceOption.disabled = true;
       }
 

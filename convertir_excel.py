@@ -39,6 +39,9 @@ ALIASES = {
     "departamento": {"DEPARTAMENTO", "DEPTO"},
     "latitud": {"LATITUD", "LATITUDE", "LAT"},
     "longitud": {"LONGITUD", "LONGITUDE", "LON", "LNG", "LONG"},
+    "fuente_ubicacion": {"FUENTE UBICACION"},
+    "fecha_ubicacion": {"FECHA UBICACION"},
+    "nombre_ubicacion": {"NOMBRE UBICACION"},
     "codigo": {"CODIGO", "ID", "IDENTIFICADOR", "CODIGO ESTACION"},
     "grupo": {"GRUPO", "GROUP"},
     "categoria": {"CATEGORIA", "CATEGORY"},
@@ -147,6 +150,10 @@ def read_sheet_rows(zf, sheet_path, shared_strings):
     root = ET.fromstring(zf.read(sheet_path))
     rows = []
     for row_node in root.findall(f".//{{{NS_MAIN}}}row"):
+        # Preserve the workbook's actual row numbers, including omitted blank rows.
+        row_number = int(row_node.attrib.get("r", len(rows) + 1))
+        while len(rows) < row_number - 1:
+            rows.append([])
         cells = {}
         max_col = -1
         for cell in row_node.findall(f"{{{NS_MAIN}}}c"):
@@ -289,7 +296,7 @@ def convert(input_path: Path, output_path: Path):
                     extras.setdefault("ESTACIÓN", clean_scalar(mapped.get("estacion")))
 
                 rec = {
-                    "id": f"{slug(sheet_name)}-{sheet_row_num}",
+                    "id": f"{slug(sheet_name)}-{sheet_row_num - header_idx}",
                     "nombre": nombre,
                     "marca": marca,
                     "direccion": direccion,
@@ -297,6 +304,9 @@ def convert(input_path: Path, output_path: Path):
                     "departamento": departamento,
                     "latitud": latitud,
                     "longitud": longitud,
+                    "fuente_ubicacion": clean_scalar(mapped.get("fuente_ubicacion")),
+                    "fecha_ubicacion": clean_scalar(mapped.get("fecha_ubicacion")),
+                    "nombre_ubicacion": clean_scalar(mapped.get("nombre_ubicacion")),
                     "codigo": codigo,
                     "grupo": grupo,
                     "observaciones": observaciones,
